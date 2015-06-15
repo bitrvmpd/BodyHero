@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <item id="1">
+    <nombre_objeto>figura_1</nombre_objeto>
+    <ruta_audio>.\Sonidos\Percusión (azúl)\kick.wav</ruta_audio>
+    <seg_final>8</seg_final>
+    <pos_ini>355,197</pos_ini>
+    <life_time>5</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>1</animacion>
+  </item>
+  <item id="2">
+    <nombre_objeto>figura_2</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 1.wav</ruta_audio>
+    <seg_final>8</seg_final>
+    <pos_ini>298,197</pos_ini>
+    <life_time>5</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="3">
+    <nombre_objeto>figura_3</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 2.wav</ruta_audio>
+    <seg_final>10</seg_final>
+    <pos_ini>273,294</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="4">
+    <nombre_objeto>figura_4</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 3.wav</ruta_audio>
+    <seg_final>12</seg_final>
+    <pos_ini>268,240</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="5">
+    <nombre_objeto>figura_5</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 4.wav</ruta_audio>
+    <seg_final>14</seg_final>
+    <pos_ini>365,292</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="6">
+    <nombre_objeto>figura_6</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 5.wav</ruta_audio>
+    <seg_final>16</seg_final>
+    <pos_ini>286,217</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="7">
+    <nombre_objeto>figura_7</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 6.wav</ruta_audio>
+    <seg_final>18</seg_final>
+    <pos_ini>351,244</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="8">
+    <nombre_objeto>figura_8</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 7.wav</ruta_audio>
+    <seg_final>20</seg_final>
+    <pos_ini>357,245</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="9">
+    <nombre_objeto>figura_9</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 8.wav</ruta_audio>
+    <seg_final>22</seg_final>
+    <pos_ini>296,294</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="10">
+    <nombre_objeto>figura_10</nombre_objeto>
+    <ruta_audio>.\Sonidos\Percusión (azúl)\beat bombo caja.wav</ruta_audio>
+    <seg_final>24</seg_final>
+    <pos_ini>289,193</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>1</animacion>
+  </item>
+  <item id="11">
+    <nombre_objeto>figura_11</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 1.wav</ruta_audio>
+    <seg_final>24</seg_final>
+    <pos_ini>345,193</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="12">
+    <nombre_objeto>figura_12</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble A1.wav</ruta_audio>
+    <seg_final>25</seg_final>
+    <pos_ini>269,235</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="13">
+    <nombre_objeto>figura_13</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble A2.wav</ruta_audio>
+    <seg_final>25</seg_final>
+    <pos_ini>350,235</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="14">
+    <nombre_objeto>figura_14</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 2.wav</ruta_audio>
+    <seg_final>26</seg_final>
+    <pos_ini>350,295</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="15">
+    <nombre_objeto>figura_15</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble B1.wav</ruta_audio>
+    <seg_final>27</seg_final>
+    <pos_ini>280,198</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="16">
+    <nombre_objeto>figura_16</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble B2.wav</ruta_audio>
+    <seg_final>27</seg_final>
+    <pos_ini>350,198</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="17">
+    <nombre_objeto>figura_17</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 3.wav</ruta_audio>
+    <seg_final>28</seg_final>
+    <pos_ini>290,294</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="18">
+    <nombre_objeto>figura_18</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble C1.wav</ruta_audio>
+    <seg_final>29</seg_final>
+    <pos_ini>265,243</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="19">
+    <nombre_objeto>figura_19</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble C2.wav</ruta_audio>
+    <seg_final>29</seg_final>
+    <pos_ini>348,243</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="20">
+    <nombre_objeto>figura_20</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 4.wav</ruta_audio>
+    <seg_final>30</seg_final>
+    <pos_ini>355,290</pos_ini>
+    <life_time>4</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="21">
+    <nombre_objeto>figura_21</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble D1.wav</ruta_audio>
+    <seg_final>31</seg_final>
+    <pos_ini>294,203</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="22">
+    <nombre_objeto>figura_22</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble D2.wav</ruta_audio>
+    <seg_final>31</seg_final>
+    <pos_ini>354,203</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="23">
+    <nombre_objeto>figura_23</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 5.wav</ruta_audio>
+    <seg_final>32</seg_final>
+    <pos_ini>288,291</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="24">
+    <nombre_objeto>figura_24</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble A1.wav</ruta_audio>
+    <seg_final>33</seg_final>
+    <pos_ini>272,201</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="25">
+    <nombre_objeto>figura_25</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble A2.wav</ruta_audio>
+    <seg_final>33</seg_final>
+    <pos_ini>358,201</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="26">
+    <nombre_objeto>figura_26</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 6.wav</ruta_audio>
+    <seg_final>34</seg_final>
+    <pos_ini>273,190</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="27">
+    <nombre_objeto>figura_27</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble B1.wav</ruta_audio>
+    <seg_final>35</seg_final>
+    <pos_ini>260,238</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="28">
+    <nombre_objeto>figura_28</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble B2.wav</ruta_audio>
+    <seg_final>35</seg_final>
+    <pos_ini>340,238</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="29">
+    <nombre_objeto>figura_29</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 7.wav</ruta_audio>
+    <seg_final>36</seg_final>
+    <pos_ini>318,293</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="30">
+    <nombre_objeto>figura_30</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble C1.wav</ruta_audio>
+    <seg_final>37</seg_final>
+    <pos_ini>326,200</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="31">
+    <nombre_objeto>figura_31</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble C2.wav</ruta_audio>
+    <seg_final>37</seg_final>
+    <pos_ini>270,200</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="32">
+    <nombre_objeto>figura_32</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 8.wav</ruta_audio>
+    <seg_final>38</seg_final>
+    <pos_ini>307,241</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="33">
+    <nombre_objeto>figura_33</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble D1.wav</ruta_audio>
+    <seg_final>39</seg_final>
+    <pos_ini>260,192</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+  <item id="34">
+    <nombre_objeto>figura_34</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\mini wobble D2.wav</ruta_audio>
+    <seg_final>39</seg_final>
+    <pos_ini>333,253</pos_ini>
+    <life_time>3</life_time>
+    <imagen_ini>"url"</imagen_ini>
+    <animacion>0</animacion>
+  </item>
+</config>

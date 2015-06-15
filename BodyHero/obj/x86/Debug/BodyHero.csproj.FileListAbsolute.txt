@@ -1,0 +1,125 @@
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csproj.ResolveComReference.cache
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\MainWindow.baml
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\MainWindow.g.cs
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\App.g.cs
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero_MarkupCompile.cache
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.g.resources
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.Properties.Resources.resources
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\bin\Debug\BodyHero.exe
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\bin\Debug\BodyHero.pdb
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\bin\Debug\Clases.dll
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\bin\Debug\Clases.pdb
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.exe
+C:\Users\duoc\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.pdb
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csproj.ResolveComReference.cache
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.exe
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.pdb
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\bin\Debug\BodyHero.exe
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\bin\Debug\BodyHero.pdb
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\bin\Debug\Clases.dll
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\bin\Debug\Clases.pdb
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\MainWindow.baml
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\MainWindow.g.cs
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\App.g.cs
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero_MarkupCompile.cache
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.g.resources
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.Properties.Resources.resources
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\citt\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\Interop.MediaPlayer.dll
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\Interop.WMPLib.dll
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csproj.ResolveComReference.cache
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.exe
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.pdb
+F:\Kinect\16-10\BodyHero\BodyHero\bin\Debug\BodyHero.exe
+F:\Kinect\16-10\BodyHero\BodyHero\bin\Debug\BodyHero.pdb
+F:\Kinect\16-10\BodyHero\BodyHero\bin\Debug\Clases.dll
+F:\Kinect\16-10\BodyHero\BodyHero\bin\Debug\Clases.pdb
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\MainWindow.baml
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\MainWindow.g.cs
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\App.g.cs
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero_MarkupCompile.cache
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.g.resources
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.Properties.Resources.resources
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Kinect\16-10\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.exe
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.pdb
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\MainWindow.baml
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\MainWindow.g.cs
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\App.g.cs
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero_MarkupCompile.cache
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.g.resources
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\BodyHero.Properties.Resources.resources
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\bin\Debug\BodyHero.exe
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\bin\Debug\BodyHero.pdb
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\16-10\BodyHero\BodyHero\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.exe
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.pdb
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\bin\Debug\BodyHero.exe
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\bin\Debug\BodyHero.pdb
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\MainWindow.baml
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\MainWindow.g.cs
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\App.g.cs
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero_MarkupCompile.cache
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.g.resources
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.Properties.Resources.resources
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csproj.ResolveComReference.cache
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.exe
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.pdb
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\bin\Debug\BodyHero.exe
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\bin\Debug\BodyHero.pdb
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\bin\Debug\Clases.dll
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\bin\Debug\Clases.pdb
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csprojResolveAssemblyReference.cache
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\MainWindow.baml
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\App.g.cs
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero_MarkupCompile.cache
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.g.resources
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.Properties.Resources.resources
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csproj.GenerateResource.Cache
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\Interop.MediaPlayer.dll
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.exe
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.pdb
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\bin\Debug\BodyHero.exe
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\bin\Debug\BodyHero.pdb
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\MainWindow.baml
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\MainWindow.g.cs
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\App.g.cs
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero_MarkupCompile.cache
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.g.resources
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\BodyHero.Properties.Resources.resources
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\BodyHero\obj\x86\Debug\GenerateResource.write.1.tlog

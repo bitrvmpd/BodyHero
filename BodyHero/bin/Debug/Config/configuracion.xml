@@ -1,0 +1,1317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <item id="2">
+    <nombre_objeto>figura_2</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 1.wav</ruta_audio>
+    <seg_final>8</seg_final>
+    <pos_ini>298,197</pos_ini>
+    <life_time>5</life_time>
+    
+    <animacion>1</animacion>
+  </item>
+  <item id="3">
+    <nombre_objeto>figura_3</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 2.wav</ruta_audio>
+    <seg_final>10</seg_final>
+    <pos_ini>273,294</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="4">
+    <nombre_objeto>figura_4</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 3.wav</ruta_audio>
+    <seg_final>12</seg_final>
+    <pos_ini>268,240</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="5">
+    <nombre_objeto>figura_5</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 4.wav</ruta_audio>
+    <seg_final>14</seg_final>
+    <pos_ini>365,292</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="6">
+    <nombre_objeto>figura_6</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 5.wav</ruta_audio>
+    <seg_final>16</seg_final>
+    <pos_ini>286,217</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="7">
+    <nombre_objeto>figura_7</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 6.wav</ruta_audio>
+    <seg_final>18</seg_final>
+    <pos_ini>351,244</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="8">
+    <nombre_objeto>figura_8</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 7.wav</ruta_audio>
+    <seg_final>20</seg_final>
+    <pos_ini>357,245</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="9">
+    <nombre_objeto>figura_9</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 8.wav</ruta_audio>
+    <seg_final>22</seg_final>
+    <pos_ini>296,294</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="11">
+    <nombre_objeto>figura_11</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 1.wav</ruta_audio>
+    <seg_final>24</seg_final>
+    <pos_ini>345,193</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="12">
+    <nombre_objeto>figura_12</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 1.wav</ruta_audio>
+    <seg_final>25</seg_final>
+    <pos_ini>269,235</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="14">
+    <nombre_objeto>figura_14</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 2.wav</ruta_audio>
+    <seg_final>26</seg_final>
+    <pos_ini>350,295</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="15">
+    <nombre_objeto>figura_15</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 2.wav</ruta_audio>
+    <seg_final>27</seg_final>
+    <pos_ini>280,198</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="17">
+    <nombre_objeto>figura_17</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 3.wav</ruta_audio>
+    <seg_final>28</seg_final>
+    <pos_ini>290,294</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="18">
+    <nombre_objeto>figura_18</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 3.wav</ruta_audio>
+    <seg_final>29</seg_final>
+    <pos_ini>265,243</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="20">
+    <nombre_objeto>figura_20</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 4.wav</ruta_audio>
+    <seg_final>30</seg_final>
+    <pos_ini>355,290</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="21">
+    <nombre_objeto>figura_21</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 4.wav</ruta_audio>
+    <seg_final>31</seg_final>
+    <pos_ini>294,203</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="23">
+    <nombre_objeto>figura_23</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 5.wav</ruta_audio>
+    <seg_final>32</seg_final>
+    <pos_ini>288,291</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="24">
+    <nombre_objeto>figura_24</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 5.wav</ruta_audio>
+    <seg_final>33</seg_final>
+    <pos_ini>272,201</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="26">
+    <nombre_objeto>figura_26</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 6.wav</ruta_audio>
+    <seg_final>34</seg_final>
+    <pos_ini>273,190</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="28">
+    <nombre_objeto>figura_28</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 6.wav</ruta_audio>
+    <seg_final>35</seg_final>
+    <pos_ini>340,238</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="29">
+    <nombre_objeto>figura_29</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 7.wav</ruta_audio>
+    <seg_final>36</seg_final>
+    <pos_ini>318,293</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="30">
+    <nombre_objeto>figura_30</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 7.wav</ruta_audio>
+    <seg_final>37</seg_final>
+    <pos_ini>326,200</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="32">
+    <nombre_objeto>figura_32</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 8.wav</ruta_audio>
+    <seg_final>38</seg_final>
+    <pos_ini>255,238</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="34">
+    <nombre_objeto>figura_34</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 8.wav</ruta_audio>
+    <seg_final>39</seg_final>
+    <pos_ini>333,253</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="35">
+    <nombre_objeto>figura_35</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 1.wav</ruta_audio>
+    <seg_final>40</seg_final>
+    <pos_ini>346,244</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="36">
+    <nombre_objeto>figura_36</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 2.wav</ruta_audio>
+    <seg_final>41</seg_final>
+    <pos_ini>339,224</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="37">
+    <nombre_objeto>figura_37</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 3.wav</ruta_audio>
+    <seg_final>42</seg_final>
+    <pos_ini>264,222</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="38">
+    <nombre_objeto>figura_38</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 4.wav</ruta_audio>
+    <seg_final>43</seg_final>
+    <pos_ini>248,243</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="39">
+    <nombre_objeto>figura_39</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 5.wav</ruta_audio>
+    <seg_final>44</seg_final>
+    <pos_ini>263,197</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="40">
+    <nombre_objeto>figura_40</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 6.wav</ruta_audio>
+    <seg_final>45</seg_final>
+    <pos_ini>355,201</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="41">
+    <nombre_objeto>figura_41</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 7.wav</ruta_audio>
+    <seg_final>46</seg_final>
+    <pos_ini>274,284</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="42">
+    <nombre_objeto>figura_42</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 8.wav</ruta_audio>
+    <seg_final>47</seg_final>
+    <pos_ini>363,284</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="46">
+    <nombre_objeto>figura_46</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 9.wav</ruta_audio>
+    <seg_final>48</seg_final>
+    <pos_ini>369,189</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="43">
+    <nombre_objeto>figura_43</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 10.wav</ruta_audio>
+    <seg_final>49</seg_final>
+    <pos_ini>257,190</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="44">
+    <nombre_objeto>figura_44</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 11.wav</ruta_audio>
+    <seg_final>50</seg_final>
+    <pos_ini>260,246</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="45">
+    <nombre_objeto>figura_45</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 12.wav</ruta_audio>
+    <seg_final>51</seg_final>
+    <pos_ini>354,223</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="47">
+    <nombre_objeto>figura_47</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 13.wav</ruta_audio>
+    <seg_final>52</seg_final>
+    <pos_ini>255,240</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="48">
+    <nombre_objeto>figura_48</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 14.wav</ruta_audio>
+    <seg_final>53</seg_final>
+    <pos_ini>317,195</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="49">
+    <nombre_objeto>figura_49</nombre_objeto>
+    <ruta_audio></ruta_audio>
+    <seg_final>53</seg_final>
+    <pos_ini>266,196</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>1</animacion>
+  </item>
+  <item id="50">
+    <nombre_objeto>figura_50</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 15.wav</ruta_audio>
+    <seg_final>54</seg_final>
+    <pos_ini>247,242</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="52">
+    <nombre_objeto>figura_52</nombre_objeto>
+    <ruta_audio>.\Sonidos\Percusión (azúl)\hi-hat.wav</ruta_audio>
+    <seg_final>55</seg_final>
+    <pos_ini>349,195</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="53">
+    <nombre_objeto>figura_53</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 1.wav</ruta_audio>
+    <seg_final>55</seg_final>
+    <pos_ini>347,281</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="54">
+    <nombre_objeto>figura_54</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 2.wav</ruta_audio>
+    <seg_final>57</seg_final>
+    <pos_ini>378,230</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="55">
+    <nombre_objeto>figura_55</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 3.wav</ruta_audio>
+    <seg_final>59</seg_final>
+    <pos_ini>251,191</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="56">
+    <nombre_objeto>figura_56</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 4.wav</ruta_audio>
+    <seg_final>61</seg_final>
+    <pos_ini>251,253</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="57">
+    <nombre_objeto>figura_57</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 5.wav</ruta_audio>
+    <seg_final>63</seg_final>
+    <pos_ini>327,235</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="58">
+    <nombre_objeto>figura_58</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 6.wav</ruta_audio>
+    <seg_final>65</seg_final>
+    <pos_ini>378,229</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="59">
+    <nombre_objeto>figura_59</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 7.wav</ruta_audio>
+    <seg_final>67</seg_final>
+    <pos_ini>357,189</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="60">
+    <nombre_objeto>figura_60</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 8.wav</ruta_audio>
+    <seg_final>69</seg_final>
+    <pos_ini>244,184</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="62">
+    <nombre_objeto>figura_62</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 1.wav</ruta_audio>
+    <seg_final>71</seg_final>
+    <pos_ini>279,234</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="63">
+    <nombre_objeto>figura_63</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 2.wav</ruta_audio>
+    <seg_final>73</seg_final>
+    <pos_ini>383,181</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="64">
+    <nombre_objeto>figura_64</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 3.wav</ruta_audio>
+    <seg_final>75</seg_final>
+    <pos_ini>381,230</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="65">
+    <nombre_objeto>figura_65</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 4.wav</ruta_audio>
+    <seg_final>77</seg_final>
+    <pos_ini>241,181</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="66">
+    <nombre_objeto>figura_66</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 5.wav</ruta_audio>
+    <seg_final>79</seg_final>
+    <pos_ini>241,236</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="67">
+    <nombre_objeto>figura_67</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 6.wav</ruta_audio>
+    <seg_final>81</seg_final>
+    <pos_ini>339,283</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="68">
+    <nombre_objeto>figura_68</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 7.wav</ruta_audio>
+    <seg_final>83</seg_final>
+    <pos_ini>288,283</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="69">
+    <nombre_objeto>figura_69</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 8.wav</ruta_audio>
+    <seg_final>85</seg_final>
+    <pos_ini>296,189</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="71">
+    <nombre_objeto>figura_71</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 1.wav</ruta_audio>
+    <seg_final>87</seg_final>
+    <pos_ini>276,235</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="72">
+    <nombre_objeto>figura_72</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 2.wav</ruta_audio>
+    <seg_final>89</seg_final>
+    <pos_ini>388,231</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="73">
+    <nombre_objeto>figura_73</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 3.wav</ruta_audio>
+    <seg_final>91</seg_final>
+    <pos_ini>299,210</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="74">
+    <nombre_objeto>figura_74</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 4.wav</ruta_audio>
+    <seg_final>93</seg_final>
+    <pos_ini>242,237</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="75">
+    <nombre_objeto>figura_75</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 5.wav</ruta_audio>
+    <seg_final>95</seg_final>
+    <pos_ini>281,280</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="76">
+    <nombre_objeto>figura_76</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 6.wav</ruta_audio>
+    <seg_final>97</seg_final>
+    <pos_ini>354,187</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="77">
+    <nombre_objeto>figura_77</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 7.wav</ruta_audio>
+    <seg_final>99</seg_final>
+    <pos_ini>244,184</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="78">
+    <nombre_objeto>figura_78</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 8.wav</ruta_audio>
+    <seg_final>101</seg_final>
+    <pos_ini>330,228</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="79">
+    <nombre_objeto>figura_79</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 1.wav</ruta_audio>
+    <seg_final>103</seg_final>
+    <pos_ini>266,229</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="81">
+    <nombre_objeto>figura_81</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 1.wav</ruta_audio>
+    <seg_final>104</seg_final>
+    <pos_ini>287,188</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="83">
+    <nombre_objeto>figura_83</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 2.wav</ruta_audio>
+    <seg_final>105</seg_final>
+    <pos_ini>336,286</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="85">
+    <nombre_objeto>figura_85</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 2.wav</ruta_audio>
+    <seg_final>106</seg_final>
+    <pos_ini>365,228</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="86">
+    <nombre_objeto>figura_86</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 3.wav</ruta_audio>
+    <seg_final>107</seg_final>
+    <pos_ini>335,285</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="87">
+    <nombre_objeto>figura_87</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 3.wav</ruta_audio>
+    <seg_final>108</seg_final>
+    <pos_ini>273,218</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="89">
+    <nombre_objeto>figura_89</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 4.wav</ruta_audio>
+    <seg_final>109</seg_final>
+    <pos_ini>278,283</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="91">
+    <nombre_objeto>figura_91</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 4.wav</ruta_audio>
+    <seg_final>110</seg_final>
+    <pos_ini>282,249</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="92">
+    <nombre_objeto>figura_92</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 5.wav</ruta_audio>
+    <seg_final>111</seg_final>
+    <pos_ini>347,268</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="94">
+    <nombre_objeto>figura_94</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 5.wav</ruta_audio>
+    <seg_final>112</seg_final>
+    <pos_ini>340,186</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="95">
+    <nombre_objeto>figura_95</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 6.wav</ruta_audio>
+    <seg_final>113</seg_final>
+    <pos_ini>347,267</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="96">
+    <nombre_objeto>figura_96</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 6.wav</ruta_audio>
+    <seg_final>114</seg_final>
+    <pos_ini>269,229</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="98">
+    <nombre_objeto>figura_98</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 7.wav</ruta_audio>
+    <seg_final>115</seg_final>
+    <pos_ini>287,281</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="100">
+    <nombre_objeto>figura_100</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 7.wav.wav</ruta_audio>
+    <seg_final>116</seg_final>
+    <pos_ini>352,204</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="101">
+    <nombre_objeto>figura_101</nombre_objeto>
+    <ruta_audio>.\Sonidos\estrofa (café)\sinte agudo 8.wav</ruta_audio>
+    <seg_final>117</seg_final>
+    <pos_ini>338,279</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="102">
+    <nombre_objeto>figura_102</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 8.wav</ruta_audio>
+    <seg_final>118</seg_final>
+    <pos_ini>268,215</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="104">
+    <nombre_objeto>figura_104</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 1.wav</ruta_audio>
+    <seg_final>119</seg_final>
+    <pos_ini>245,241</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="105">
+    <nombre_objeto>figura_105</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 2.wav</ruta_audio>
+    <seg_final>120</seg_final>
+    <pos_ini>243,224</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="106">
+    <nombre_objeto>figura_106</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 3.wav</ruta_audio>
+    <seg_final>121</seg_final>
+    <pos_ini>247,205</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="107">
+    <nombre_objeto>figura_107</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 4.wav</ruta_audio>
+    <seg_final>122</seg_final>
+    <pos_ini>261,187</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="108">
+    <nombre_objeto>figura_108</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 5.wav</ruta_audio>
+    <seg_final>123</seg_final>
+    <pos_ini>284,184</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="109">
+    <nombre_objeto>figura_109</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 6.wav</ruta_audio>
+    <seg_final>124</seg_final>
+    <pos_ini>342,183</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="110">
+    <nombre_objeto>figura_110</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 7.wav</ruta_audio>
+    <seg_final>125</seg_final>
+    <pos_ini>358,191</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="111">
+    <nombre_objeto>figura_111</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 8.wav</ruta_audio>
+    <seg_final>126</seg_final>
+    <pos_ini>372,204</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="112">
+    <nombre_objeto>figura_112</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 9.wav</ruta_audio>
+    <seg_final>127</seg_final>
+    <pos_ini>375,220</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="113">
+    <nombre_objeto>figura_113</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 10.wav</ruta_audio>
+    <seg_final>128</seg_final>
+    <pos_ini>374,241</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="114">
+    <nombre_objeto>figura_114</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 11.wav</ruta_audio>
+    <seg_final>129</seg_final>
+    <pos_ini>257,239</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="115">
+    <nombre_objeto>figura_115</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 12.wav</ruta_audio>
+    <seg_final>130</seg_final>
+    <pos_ini>284,185</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="116">
+    <nombre_objeto>figura_116</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 13.wav</ruta_audio>
+    <seg_final>131</seg_final>
+    <pos_ini>373,240</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="117">
+    <nombre_objeto>figura_117</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 14.wav</ruta_audio>
+    <seg_final>132</seg_final>
+    <pos_ini>358,190</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="118">
+    <nombre_objeto>figura_118</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\UP.wav</ruta_audio>
+    <seg_final>132</seg_final>
+    <pos_ini>286,191</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>1</animacion>
+  </item>
+  <item id="119">
+    <nombre_objeto>figura_119</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 15.wav</ruta_audio>
+    <seg_final>133</seg_final>
+    <pos_ini>256,239</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="121">
+    <nombre_objeto>figura_121</nombre_objeto>
+    <ruta_audio>.\Sonidos\Percusión (azúl)\hi-hat.wav</ruta_audio>
+    <seg_final>134</seg_final>
+    <pos_ini>338,200</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>1</animacion>
+  </item>
+  <item id="122">
+    <nombre_objeto>figura_122</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 1.wav</ruta_audio>
+    <seg_final>134</seg_final>
+    <pos_ini>271,277</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="123">
+    <nombre_objeto>figura_123</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 2.wav</ruta_audio>
+    <seg_final>136</seg_final>
+    <pos_ini>386,183</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="124">
+    <nombre_objeto>figura_124</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 3.wav</ruta_audio>
+    <seg_final>138</seg_final>
+    <pos_ini>240,181</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="125">
+    <nombre_objeto>figura_125</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 4.wav</ruta_audio>
+    <seg_final>140</seg_final>
+    <pos_ini>388,288</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="126">
+    <nombre_objeto>figura_126</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 5.wav</ruta_audio>
+    <seg_final>142</seg_final>
+    <pos_ini>240,290</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="127">
+    <nombre_objeto>figura_127</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 6.wav</ruta_audio>
+    <seg_final>144</seg_final>
+    <pos_ini>387,234</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="128">
+    <nombre_objeto>figura_128</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 7.wav</ruta_audio>
+    <seg_final>146</seg_final>
+    <pos_ini>241,239</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="129">
+    <nombre_objeto>figura_129</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 8.wav</ruta_audio>
+    <seg_final>148</seg_final>
+    <pos_ini>316,182</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="130">
+    <nombre_objeto>figura_130</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 1.wav</ruta_audio>
+    <seg_final>150</seg_final>
+    <pos_ini>278,201</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="132">
+    <nombre_objeto>figura_132</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 2.wav</ruta_audio>
+    <seg_final>152</seg_final>
+    <pos_ini>267,235</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="133">
+    <nombre_objeto>figura_133</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 3.wav</ruta_audio>
+    <seg_final>154</seg_final>
+    <pos_ini>351,230</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="134">
+    <nombre_objeto>figura_134</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 4.wav</ruta_audio>
+    <seg_final>156</seg_final>
+    <pos_ini>349,181</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="135">
+    <nombre_objeto>figura_135</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 5.wav</ruta_audio>
+    <seg_final>158</seg_final>
+    <pos_ini>361,280</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="136">
+    <nombre_objeto>figura_136</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 6.wav</ruta_audio>
+    <seg_final>160</seg_final>
+    <pos_ini>267,182</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="137">
+    <nombre_objeto>figura_137</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 7.wav</ruta_audio>
+    <seg_final>162</seg_final>
+    <pos_ini>269,283</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="138">
+    <nombre_objeto>figura_138</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 8.wav</ruta_audio>
+    <seg_final>164</seg_final>
+    <pos_ini>242,207</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>62</animacion>
+  </item>
+  <item id="139">
+    <nombre_objeto>figura_139</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 1.wav</ruta_audio>
+    <seg_final>166</seg_final>
+    <pos_ini>335,184</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="140">
+    <nombre_objeto>figura_140</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 2.wav</ruta_audio>
+    <seg_final>167</seg_final>
+    <pos_ini>288,183</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="141">
+    <nombre_objeto>figura_141</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 3.wav</ruta_audio>
+    <seg_final>168</seg_final>
+    <pos_ini>365,196</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="142">
+    <nombre_objeto>figura_142</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 4.wav</ruta_audio>
+    <seg_final>169</seg_final>
+    <pos_ini>262,194</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="143">
+    <nombre_objeto>figura_143</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 5.wav</ruta_audio>
+    <seg_final>170</seg_final>
+    <pos_ini>387,206</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="144">
+    <nombre_objeto>figura_144</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 6.wav</ruta_audio>
+    <seg_final>171</seg_final>
+    <pos_ini>243,212</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="145">
+    <nombre_objeto>figura_145</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 7.wav</ruta_audio>
+    <seg_final>172</seg_final>
+    <pos_ini>335,183</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="146">
+    <nombre_objeto>figura_146</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 8.wav</ruta_audio>
+    <seg_final>173</seg_final>
+    <pos_ini>288,183</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="147">
+    <nombre_objeto>figura_147</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 9.wav</ruta_audio>
+    <seg_final>174</seg_final>
+    <pos_ini>365,196</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="148">
+    <nombre_objeto>figura_148</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 10.wav</ruta_audio>
+    <seg_final>175</seg_final>
+    <pos_ini>262,193</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="149">
+    <nombre_objeto>figura_149</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 11.wav</ruta_audio>
+    <seg_final>176</seg_final>
+    <pos_ini>387,204</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="150">
+    <nombre_objeto>figura_150</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 12.wav</ruta_audio>
+    <seg_final>177</seg_final>
+    <pos_ini>243,210</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="151">
+    <nombre_objeto>figura_151</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 13.wav</ruta_audio>
+    <seg_final>178</seg_final>
+    <pos_ini>269,281</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>5</animacion>
+  </item>
+  <item id="152">
+    <nombre_objeto>figura_152</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 14.wav</ruta_audio>
+    <seg_final>179</seg_final>
+    <pos_ini>259,229</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="153">
+    <nombre_objeto>figura_153</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\UP.wav</ruta_audio>
+    <seg_final>179</seg_final>
+    <pos_ini>365,229</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>1</animacion>
+  </item>
+  <item id="154">
+    <nombre_objeto>figura_154</nombre_objeto>
+    <ruta_audio>.\Sonidos\puente (rosado)\sinte puente melodi 15.wav</ruta_audio>
+    <seg_final>180</seg_final>
+    <pos_ini>350,283</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="155">
+    <nombre_objeto>figura_155</nombre_objeto>
+    <ruta_audio>.\Sonidos\Percusión (azúl)\hi-hat.wav</ruta_audio>
+    <seg_final>181</seg_final>
+    <pos_ini>329,231</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="157">
+    <nombre_objeto>figura_157</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 1.wav</ruta_audio>
+    <seg_final>181</seg_final>
+    <pos_ini>327,189</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="158">
+    <nombre_objeto>figura_158</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 2.wav</ruta_audio>
+    <seg_final>183</seg_final>
+    <pos_ini>291,233</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="159">
+    <nombre_objeto>figura_159</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 3.wav</ruta_audio>
+    <seg_final>185</seg_final>
+    <pos_ini>369,189</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="160">
+    <nombre_objeto>figura_160</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 4.wav</ruta_audio>
+    <seg_final>187</seg_final>
+    <pos_ini>279,282</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="161">
+    <nombre_objeto>figura_161</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 5.wav</ruta_audio>
+    <seg_final>189</seg_final>
+    <pos_ini>339,282</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="162">
+    <nombre_objeto>figura_162</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 6.wav</ruta_audio>
+    <seg_final>191</seg_final>
+    <pos_ini>250,191</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="163">
+    <nombre_objeto>figura_163</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 7.wav</ruta_audio>
+    <seg_final>193</seg_final>
+    <pos_ini>358,253</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>3</animacion>
+  </item>
+  <item id="164">
+    <nombre_objeto>figura_164</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 8.wav</ruta_audio>
+    <seg_final>195</seg_final>
+    <pos_ini>353,190</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="165">
+    <nombre_objeto>figura_165</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 1.wav</ruta_audio>
+    <seg_final>197</seg_final>
+    <pos_ini>299,189</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="167">
+    <nombre_objeto>figura_167</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 2.wav</ruta_audio>
+    <seg_final>199</seg_final>
+    <pos_ini>361,209</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>0</animacion>
+  </item>
+  <item id="168">
+    <nombre_objeto>figura_168</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 3.wav</ruta_audio>
+    <seg_final>201</seg_final>
+    <pos_ini>364,248</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="169">
+    <nombre_objeto>figura_169</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 4.wav</ruta_audio>
+    <seg_final>203</seg_final>
+    <pos_ini>267,187</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>2</animacion>
+  </item>
+  <item id="170">
+    <nombre_objeto>figura_170</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 5.wav</ruta_audio>
+    <seg_final>205</seg_final>
+    <pos_ini>251,217</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+  <item id="171">
+    <nombre_objeto>figura_171</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 6.wav</ruta_audio>
+    <seg_final>207</seg_final>
+    <pos_ini>345,192</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>4</animacion>
+  </item>
+  <item id="172">
+    <nombre_objeto>figura_172</nombre_objeto>
+    <ruta_audio>.\Sonidos\coro (verde)\Wobble 7.wav</ruta_audio>
+    <seg_final>209</seg_final>
+    <pos_ini>360,226</pos_ini>
+    <life_time>3</life_time>
+    
+    <animacion>6</animacion>
+  </item>
+</config>

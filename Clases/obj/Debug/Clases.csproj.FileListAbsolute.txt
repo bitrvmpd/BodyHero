@@ -1,0 +1,211 @@
+C:\Users\citt\Desktop\Juego\Clases\bin\Debug\Clases.dll
+C:\Users\citt\Desktop\Juego\Clases\bin\Debug\Clases.pdb
+C:\Users\citt\Desktop\Juego\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\citt\Desktop\Juego\Clases\obj\Debug\Clases.dll
+C:\Users\citt\Desktop\Juego\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Respaldos\Juego 10-09\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Respaldos\Juego 10-09\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Respaldos\Juego 10-09\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Respaldos\Juego 10-09\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Respaldos\Juego 10-09\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego 11-09 Check box esqueleto\Clases\obj\Debug\Juego.frmVista.resources
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\obj\Debug\Juego.frmVista.resources
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego 12-09 Plantas\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\wpf\Game\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\wpf\Game\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\wpf\Game\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\wpf\Game\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\wpf\Game\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\wpf\Game\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\wpf\Game\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\wpf\Game\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego Final 23-09\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego Final 23-09\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego Final 23-09\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego Final 23-09\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Juego Final 23-09\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Juego Final 23-09\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Juego Final 23-09\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego Final 23-09\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego Final 26-09\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego Final 26-09\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego Final 26-09\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego Final 26-09\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Juego Final 26-09\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Juego Final 26-09\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Juego Final 26-09\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego Final 26-09\Clases\obj\Debug\Clases.pdb
+F:\Juego Final 26-09\Clases\bin\Debug\Clases.dll
+F:\Juego Final 26-09\Clases\bin\Debug\Clases.pdb
+F:\Juego Final 26-09\Clases\obj\Debug\ResolveAssemblyReference.cache
+F:\Juego Final 26-09\Clases\obj\Debug\Juego.Properties.Resources.resources
+F:\Juego Final 26-09\Clases\obj\Debug\GenerateResource.read.1.tlog
+F:\Juego Final 26-09\Clases\obj\Debug\GenerateResource.write.1.tlog
+F:\Juego Final 26-09\Clases\obj\Debug\Clases.dll
+F:\Juego Final 26-09\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\Juego Final 26-09 MOSTRAR\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\Juego final 27-09\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego final 27-09\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego final 27-09\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego final 27-09\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\Juego final 27-09\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\Juego final 27-09\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Juego final 27-09\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Juego final 27-09\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Juego final 27-09\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego final 27-09\Clases\obj\Debug\Clases.pdb
+C:\Users\Alberto\Dropbox\Proyectos\Juego final 30-09\Juego final 30-09\Clases\bin\Debug\Clases.dll
+C:\Users\Alberto\Dropbox\Proyectos\Juego final 30-09\Juego final 30-09\Clases\bin\Debug\Clases.pdb
+C:\Users\Alberto\Dropbox\Proyectos\Juego final 30-09\Juego final 30-09\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alberto\Dropbox\Proyectos\Juego final 30-09\Juego final 30-09\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\Alberto\Dropbox\Proyectos\Juego final 30-09\Juego final 30-09\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\Alberto\Dropbox\Proyectos\Juego final 30-09\Juego final 30-09\Clases\obj\Debug\Clases.csproj.GenerateResource.Cache
+C:\Users\Alberto\Dropbox\Proyectos\Juego final 30-09\Juego final 30-09\Clases\obj\Debug\Clases.dll
+C:\Users\Alberto\Dropbox\Proyectos\Juego final 30-09\Juego final 30-09\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego final 1-10\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego final 1-10\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego final 1-10\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego final 1-10\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\Juego final 1-10\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\Juego final 1-10\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Juego final 1-10\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Juego final 1-10\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Juego final 1-10\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego final 1-10\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego final 2-10\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego final 2-10\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Juego final 2-10\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Juego final 2-10\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\Juego final 2-10\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\Juego final 2-10\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Juego final 2-10\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Juego final 2-10\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Juego final 2-10\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Juego final 2-10\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\11-10\Juego final 2-10\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\11-10\BodyHero\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\Nueva carpeta\14-10\BodyHero\Clases\obj\Debug\Clases.pdb
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\bin\Debug\Clases.dll
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\bin\Debug\Clases.pdb
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.dll
+C:\Users\duoc\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.pdb
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\bin\Debug\Clases.dll
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\bin\Debug\Clases.pdb
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.dll
+C:\Users\citt\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.pdb
+F:\Kinect\16-10\BodyHero\Clases\bin\Debug\Clases.dll
+F:\Kinect\16-10\BodyHero\Clases\bin\Debug\Clases.pdb
+F:\Kinect\16-10\BodyHero\Clases\obj\Debug\ResolveAssemblyReference.cache
+F:\Kinect\16-10\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+F:\Kinect\16-10\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+F:\Kinect\16-10\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+F:\Kinect\16-10\BodyHero\Clases\obj\Debug\GenerateResource.read.1.tlog
+F:\Kinect\16-10\BodyHero\Clases\obj\Debug\GenerateResource.write.1.tlog
+F:\Kinect\16-10\BodyHero\Clases\obj\Debug\Clases.dll
+F:\Kinect\16-10\BodyHero\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\16-10\BodyHero\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.pdb
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\Clases\bin\Debug\Clases.dll
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\Clases\bin\Debug\Clases.pdb
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.csproj.GenerateResource.Cache
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.dll
+C:\Users\Jean Labra\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.pdb
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\bin\Debug\Clases.dll
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\bin\Debug\Clases.pdb
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Interop.WMPLib.dll
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.csproj.ResolveComReference.cache
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Juego.Properties.Resources.resources
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.dll
+C:\Users\vina\Desktop\17-10\16-10 con particulas\BodyHero\Clases\obj\Debug\Clases.pdb

@@ -1,0 +1,10 @@
+﻿<Window x:Class="BodyHero.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BODYHERO" Height="735" Width="770" Loaded="WindowLoaded" Closing="WindowClosing" WindowStyle="None" WindowState="Maximized">
+    <Grid>
+        <Viewbox Grid.Row="1" Stretch="Uniform" HorizontalAlignment="Center" Grid.ColumnSpan="2">
+            <Image Name="Image" Width="640" Height="480" Cursor="None"></Image>
+        </Viewbox>
+    </Grid>
+</Window>
